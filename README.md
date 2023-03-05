@@ -5,6 +5,8 @@ This notebook provides a procedure to automate EnergyPLAN software developed and
 ## Notes
 Procedure allows running multiple scenarios with selected variables on EnergyPLAN, retrieving the results. Almost all parts are customizable, it is open to experimenting and adjustments.
 
+All the data files and result file are provided in Data and Distributions folders.
+
 Essential third-party modules (other versions have not been checked for):
  * pywinauto - 0.6.8
  * pandas - 1.3.4
