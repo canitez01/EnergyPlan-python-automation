@@ -1,6 +1,6 @@
 # EnergyPLAN Windows OS automation
 
-This notebook provides a procedure to automate EnergyPLAN software developed and maintained by Sustainable Energy Planning Research Group at Aalborg University[^1] within Microsoft Windows OS.
+This notebook provides a procedure to automate "EnergyPLAN - Advanced Analysis of Smart Energy Systems" software developed and maintained by Sustainable Energy Planning Research Group at Aalborg University[^1] within Microsoft Windows OS.
 
 ## Notes
 Procedure allows running multiple scenarios with selected variables on EnergyPLAN, retrieving the results. Almost all parts are customizable, it is open to experimenting and adjustments.
